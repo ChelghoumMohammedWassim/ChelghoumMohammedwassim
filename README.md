@@ -1,6 +1,3 @@
-## 🧑‍💻 Education&Certificate:
-<h3 align="start">Comming soon</h3>
-
 ## 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-%231771F2.svg?logo=Gmail&logoColor=white)](mailto:chelghoum.mohammedouassim@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()
