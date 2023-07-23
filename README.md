@@ -23,11 +23,11 @@
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center">
 
-![Khaled Badran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChelghoumMohammedWassim&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+![Khaled Badran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChelghoumMohammedWassim&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChelghoumMohammedWassim&show_icons=true&theme=algolia&border_radius=20) 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ChelghoumMohammedWassim&count_private=true&theme=algolia&border_radius=20)
 
- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChelghoumMohammedWassim&show_icons=true&theme=algolia&border_radius=20) 
+ 
     
 <!-- compact programming languages layout -->
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChelghoumMohammedWassim&layout=compact&show_icons=true&theme=algolia&border_radius=20)
