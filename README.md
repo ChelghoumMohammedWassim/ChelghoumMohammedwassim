@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mohammed Wassim</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<h3 align="left">Connect with me:</h3>
 - 📫 How to reach me **chelghoum.mohammedouassim@gmail.com**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chelghoummohammedwassim" alt="chelghoummohammedwassim" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
