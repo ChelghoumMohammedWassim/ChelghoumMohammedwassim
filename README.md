@@ -3,14 +3,10 @@
 
 
 ## 🌐 Socials:
+[![Gmail](https://img.shields.io/badge/Gmail-%231771F2.svg?logo=Gmail&logoColor=white)](mailto:chelghoum.mohammedouassim@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]() 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]() 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]() 
-[![Gmail](https://img.shields.io/badge/Gmail-%231771F2.svg?logo=Gmail&logoColor=white)](mailto:chelghoum.mohammedouassim@gmail.com) 
-<a href="mailto:chelghoum.mohammedouassim@gmail.com" target="_blank">
-    <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
-</a>
 
 ## 🏆 GitHub Trophies
 <p align="left"> 
