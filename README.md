@@ -9,11 +9,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]() 
 
 ## 🏆 GitHub Trophies
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=chelghoummohammedwassim" alt="chelghoummohammedwassim" />
-  </a> 
-</p>
+
+![](https://github-profile-trophy.vercel.app/?username=ChelghoumMohammedWassim&theme=algolia&column=7&no-frame=false&no-bg=false&margin-w=10&border_radius=5)
+
 
 <p align="left">
 </p>
@@ -26,11 +24,10 @@
 
 <div class="stats" align="center">
 
-  ![Khaled Badran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChelghoumMohammedWassim&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20) 
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChelghoumMohammedWassim&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20) 
   ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChelghoumMohammedWassim&layout=compact&show_icons=true&theme=algolia&border_radius=20)
   
   ![GitHub Streak](https://streak-stats.demolab.com?user=ChelghoumMohammedWassim&count_private=true&theme=algolia&border_radius=20)
-
 
 </div>
 
